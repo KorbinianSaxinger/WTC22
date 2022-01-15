@@ -1,3 +1,5 @@
+Webseite(optisch wie www.webconia.de) mit Anmeldeformular zur WTC2022 + Besucherzähler
+
 Für die DB habe ich einen USER mit eingeschränken Rechten erstellt (ACC:toor) 
 dieser müsste in der Datei "/conf/db.php" geändert bzw. bei euch erstellt werden.
 
